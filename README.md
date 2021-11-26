@@ -5,8 +5,9 @@ Conception d'une carte électronique permettant d'accueillir la carte ESP32-WROO
 <!--
 ![Arduino-Maker-Artilect](/Images/Arduino-Maker-Artilect-Web.png)
 -->
-
-<a href="https://artilect.fr/apprendre/1-c-ateliers-et-formations-arduino/" title="Arduino-Maker-Artilect" target="_blank"><img src="Images/Arduino-Maker-Artilect-Web.png" width="800"></a>
+<div style="margin: 0 auto; text-align: center">
+<a href="https://artilect.fr/apprendre/1-c-ateliers-et-formations-arduino/" title="Arduino-Maker-Artilect" target="_blank"><img src="Images/Arduino-Maker-Artilect-Web.png" width="850"></a>
+</div>
 
 voir "[Formation Arduino Maker Artilect 2021](https://docs.google.com/document/d/1AiOmVbQlEdjEwbFdklUuR_bQvMPeL1gh1BUjC_LPH7M/edit?usp=sharing)"
 
@@ -15,8 +16,8 @@ voir "[Formation Arduino Maker Artilect 2021](https://docs.google.com/document/d
 <html>
 <p>
 <table align='left' border='0' cellpadding='0'>
-<tr>
-<td><a href="https://discord.gg/aPnZ5Q7w6Q" title="Venez nous rendre visite sur notre chaîne Discord" target="_blank"><img src="Images/logo-discord.png" width="60"></a></td>
+<tr class="noBorder">
+<td><a href="https://discord.gg/aPnZ5Q7w6Q" title="Venez nous rendre visite sur notre chaîne Discord" target="_blank"><img src="Images/logo-discord.png" width="60" border="0"></a></td>
 <td>Pour plus d'informations, venez nous rendre visite sur notre chaîne Discord à l'adresse : <a href="https://discord.gg/aPnZ5Q7w6Q">https://discord.gg/aPnZ5Q7w6Q</a></td>
 </tr>
 </table>
@@ -38,6 +39,15 @@ voir "[Formation Arduino Maker Artilect 2021](https://docs.google.com/document/d
 ## Open Source Hardware Association
 
 <!-- ![oshw-logo](oshw-logo-200-px.png) -->
-<a href="https://www.oshwa.org/open-source-hardware-logo/"><img src="Images/oshw-logo.png" width="100"></a>
 
-https://www.oshwa.org/
+<html>
+<div style="margin: 0 auto; text-align: left">
+<table align='left' border='0' cellpadding='0'>
+<tr class="noBorder">
+<td><a href="https://www.oshwa.org/open-source-hardware-logo/"><img src="Images/oshw-logo.png" width="100"></a></td>
+<tr class="noBorder">
+<td><a href="https://www.oshwa.org/" title="" target="_blank">Source : https://www.oshwa.org/</a></td>
+</tr>
+</table>
+</div>
+</html>
