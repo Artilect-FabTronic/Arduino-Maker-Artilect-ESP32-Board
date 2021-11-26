@@ -1,6 +1,6 @@
 # Arduino-Maker-Artilect-ESP32-Board
 
-Conception d'une carte électronique permettant d'accueillir la carte ESP32-WROOM-32D pour l'Arduino-Maker-Artilect ;-)
+Conception d'une carte électronique permettant d'accueillir la carte **ESP32-WROOM-32D** pour l'Arduino-Maker-Artilect ;-)
 
 <!--
 ![Arduino-Maker-Artilect](/Images/Arduino-Maker-Artilect-Web.png)
@@ -22,13 +22,13 @@ voir "[Formation Arduino Maker Artilect 2021](https://docs.google.com/document/d
 </tr>
 </table>
 </p>
+<hr>
+<br />
 </html>
 
----
+## [Documentation](Docs/README.md)
 
-## Les outils logiciels utilisés
-
-### Conception de la carte électronique
+### Logiciel utilisé conception de la carte électronique
 
 [KiCad EDA - Logiciel de capture schématique et de conception de circuits imprimés](https://kicad.org/), [version 6.0.0 => kicad-msvc.r25345.99ec2b1801-x86_64.exe](https://downloads.kicad.org/kicad/windows/explore/nightlies)
 
@@ -44,9 +44,9 @@ voir "[Formation Arduino Maker Artilect 2021](https://docs.google.com/document/d
 <div style="margin: 0 auto; text-align: left">
 <table align='left' border='0' cellpadding='0'>
 <tr class="noBorder">
-<td><a href="https://www.oshwa.org/open-source-hardware-logo/"><img src="Images/oshw-logo.png" width="100"></a></td>
+<td align='center' border='0'><a href="https://www.oshwa.org/open-source-hardware-logo/"><img src="Images/oshw-logo.png" width="100"></a></td>
 <tr class="noBorder">
-<td><a href="https://www.oshwa.org/" title="" target="_blank">Source : https://www.oshwa.org/</a></td>
+<td align='center' border='0'><a href="https://www.oshwa.org/" title="" target="_blank">Source : https://www.oshwa.org/</a></td>
 </tr>
 </table>
 </div>
