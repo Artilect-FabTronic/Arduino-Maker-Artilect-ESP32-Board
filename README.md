@@ -1,6 +1,6 @@
 # Arduino-Maker-Artilect-ESP32-Board
 
-Conception d'une carte électronique permettant d'accueillir la carte **ESP32-WROOM-32D** pour l'Arduino-Maker-Artilect ;-)
+Conception d'une carte électronique permettant d'accueillir la carte **ESP32-WROOM-32D** pour l'atelier Arduino :
 
 <!--
 ![Arduino-Maker-Artilect](/Images/Arduino-Maker-Artilect-Web.png)
@@ -11,13 +11,13 @@ Conception d'une carte électronique permettant d'accueillir la carte **ESP32-WR
 
 voir "[Formation Arduino Maker Artilect 2021](https://docs.google.com/document/d/1AiOmVbQlEdjEwbFdklUuR_bQvMPeL1gh1BUjC_LPH7M/edit?usp=sharing)"
 
-“[Fab-Tronic](https://artilect.fr/fabtronic/)”, la section thématique autour de l’électronique.
+[Fab-Tronic](https://artilect.fr/fabtronic/), la section thématique autour de l’électronique.
 
 <html>
 <p>
 <table align='left' border='0' cellpadding='0'>
 <tr class="noBorder">
-<td><a href="https://discord.gg/aPnZ5Q7w6Q" title="Venez nous rendre visite sur notre chaîne Discord" target="_blank"><img src="Images/logo-discord.png" width="60" border="0"></a></td>
+<td><a href="https://discord.gg/aPnZ5Q7w6Q" title="Venez nous rendre visite sur notre chaîne Discord" target="_blank"><img src="Images/logo-discord.png" width="80" border="0"></a></td>
 <td>Pour plus d'informations, venez nous rendre visite sur notre chaîne Discord à l'adresse : <a href="https://discord.gg/aPnZ5Q7w6Q">https://discord.gg/aPnZ5Q7w6Q</a></td>
 </tr>
 </table>
@@ -26,9 +26,11 @@ voir "[Formation Arduino Maker Artilect 2021](https://docs.google.com/document/d
 <br />
 </html>
 
+---
+
 ## [Documentation](Docs/README.md)
 
-### Logiciel utilisé conception de la carte électronique
+### Logiciel utilisé pour la conception de la carte électronique
 
 [KiCad EDA - Logiciel de capture schématique et de conception de circuits imprimés](https://kicad.org/), [version 6.0.0 => kicad-msvc.r25345.99ec2b1801-x86_64.exe](https://downloads.kicad.org/kicad/windows/explore/nightlies)
 
