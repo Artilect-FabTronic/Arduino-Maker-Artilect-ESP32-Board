@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name Socket_Arduino_Uno)(type KiCad)(uri "$(KIPRJMOD)/Socket_Arduino_Uno.pretty")(options "")(descr ""))
+  (lib (name "Socket_Arduino_Uno")(type "KiCad")(uri "$(KIPRJMOD)/Socket_Arduino_Uno.pretty")(options "")(descr ""))
+  (lib (name "Module-Project")(type "KiCad")(uri "${KIPRJMOD}/libraries/my-footprints/Module-Project.pretty")(options "")(descr ""))
 )
