@@ -1,6 +1,29 @@
 # Documentation technique du projet
 
-[ESP32-DevKitC-1](https://docs.espressif.com/projects/arduino-esp32/en/latest/boards/ESP32-DevKitC-1.html)
+<html>
+<p>
+<table align='left' border='0' cellpadding='0'>
+<tr class="noBorder">
+<td><a href="CAO-KiCad-AMA-ESP32-Board.pdf" title="Document PDF de la schématique" target="_blank"><img src="../Images/icon-pdf-file.png" width="80" border="0"></a></td>
+<td>Schématique de la carte "<I>A-M-A-ESP32-Board</I>"
+</td>
+</tr>
+</table>
+</p>
+<hr>
+<br />
+</html>
+
+## La carte A-M-A-ESP32-Board
+
+|                    Placement des composants                    |                  Sérigraphie coté cuivre screen                   |
+| :------------------------------------------------------------: | :---------------------------------------------------------------: |
+| <img src="../Images/Carte-AMA-ESP32-OLED-Top.png" width="400"> | <img src="../Images/Carte-AMA-ESP32-OLED-Bottom.png" width="400"> |
+|                         Vue de dessus                          |                          Vue de dessous                           |
+
+Voir la liste des composants et le coût de la carte : [Bill Of Materials (BOM)](BOM.md)
+
+Datasheet [ESP32-DevKitC-1](https://docs.espressif.com/projects/arduino-esp32/en/latest/boards/ESP32-DevKitC-1.html)
 
 <!--
 <a href="https://fr.aliexpress.com/item/32864722159.html" title="ESP32-WROOM-32D, 38 pin" target="_blank"><img src="../Images/ESP32-WROOM-32D.png" width="480" border="0"></a>

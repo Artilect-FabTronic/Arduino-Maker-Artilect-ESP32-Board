@@ -1,6 +1,6 @@
 # Arduino-Maker-Artilect-ESP32-Board
 
-Conception d'une carte électronique permettant d'accueillir la carte **ESP32-WROOM-32D** pour les ateliers Arduino ESP32 :
+Conception d'une carte électronique permettant d'accueillir le module **ESP32-WROOM-32D** pour les ateliers Arduino ESP32 :
 
 <!--
 ![Arduino-Maker-Artilect](/Images/Arduino-Maker-Artilect-Web.png)
@@ -17,8 +17,8 @@ Conception d'une carte électronique permettant d'accueillir la carte **ESP32-WR
 </tr>
 <tr class="noBorder">
 <td>
-<b>Objectifs</b><br /><hr>
-Initiation électronique pour débutant, souhaitant acquérir les bonnes pratiques de développement, pour la mise en œuvre des systèmes embarqués à base de cartes Arduino type ESP32 :<br />
+<b>Objectifs</b><br />
+Initiation à l'électronique pour débutant, souhaitant acquérir les bonnes pratiques de développement, pour la mise en œuvre des systèmes embarqués à base de cartes Arduino type ESP32 :<br /><br />
 <ul>
   <li>Découvrir la programmation des cartes Arduino en langage C/C++ à travers des cas pratiques.</li>
   <li>Précautions de mise en œuvre, sécurité d’utilisation, alimentation de la carte et des périphériques.</li>
@@ -42,14 +42,16 @@ Initiation électronique pour débutant, souhaitant acquérir les bonnes pratiqu
 <br />
 </html>
 
-[Fab-Tronic](https://artilect.fr/fabtronic/), la section thématique des makers autour de l’électronique.
+[FabTronic](https://artilect.fr/fabtronic/), la section thématique des makers autour de l’électronique.
 
 <html>
 <p>
 <table align='left' border='0' cellpadding='0'>
 <tr class="noBorder">
 <td><a href="https://discord.gg/aPnZ5Q7w6Q" title="Venez nous rendre visite sur notre chaîne Discord" target="_blank"><img src="Images/logo-discord.png" width="80" border="0"></a></td>
-<td>Pour plus d'informations, venez nous rendre visite sur notre chaîne Discord à l'adresse : <a href="https://discord.gg/aPnZ5Q7w6Q">https://discord.gg/aPnZ5Q7w6Q</a></td>
+<td>Pour plus d'informations, venez nous rendre visite sur notre chaîne Discord à l'adresse : <a href="https://discord.gg/aPnZ5Q7w6Q">https://discord.gg/aPnZ5Q7w6Q</a><br />
+Une fois connecté au serveur FabTronic, nous vous invitons à vous présenter dans le salon <b>#présentation</b>
+</td>
 </tr>
 </table>
 </p>
@@ -63,7 +65,9 @@ Initiation électronique pour débutant, souhaitant acquérir les bonnes pratiqu
 
 ### Logiciel utilisé pour la conception de la carte électronique
 
-[KiCad EDA - Logiciel open source de capture schématique et de conception de circuits imprimés](https://kicad.org/), [Windows All Stable Releases > kicad-6.0.10-x86_64.exe](https://downloads.kicad.org/kicad/windows/explore/stable)
+[KiCad EDA - Logiciel open source de capture schématique et de conception de circuits imprimés](https://kicad.org/)
+
+Téléchargement [Windows All Stable Releases > kicad-6.0.10-x86_64.exe](https://downloads.kicad.org/kicad/windows/explore/stable)
 
 [Logiciel open source](https://fr.wikipedia.org/wiki/Open_source) [EDA](https://fr.wikipedia.org/wiki/Conception_assist%C3%A9e_par_ordinateur_pour_l%27%C3%A9lectronique) / [CAO électronique](https://en.wikipedia.org/wiki/Comparison_of_EDA_software) pour Windows, macOS et Linux.
 
