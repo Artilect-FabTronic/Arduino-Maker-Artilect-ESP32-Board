@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name "Logo_Artilect")(type "KiCad")(uri "${KIPRJMOD}/libraries/my-symbols/Logo_Artilect.kicad_sym")(options "")(descr ""))
-  (lib (name "MCU_Module_Project")(type "KiCad")(uri "${KIPRJMOD}/libraries/my-symbols/MCU_Module_Project.kicad_sym")(options "")(descr ""))
-  (lib (name "My_sensor")(type "KiCad")(uri "${KIPRJMOD}/libraries/my-symbols/My_sensor.kicad_sym")(options "")(descr ""))
-)

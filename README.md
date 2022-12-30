@@ -1,17 +1,48 @@
 # Arduino-Maker-Artilect-ESP32-Board
 
-Conception d'une carte électronique permettant d'accueillir la carte **ESP32-WROOM-32D** pour l'atelier Arduino :
+Conception d'une carte électronique permettant d'accueillir la carte **ESP32-WROOM-32D** pour les ateliers Arduino ESP32 :
 
 <!--
 ![Arduino-Maker-Artilect](/Images/Arduino-Maker-Artilect-Web.png)
 -->
+<html>
+<table align='left' border='0' cellpadding='0'>
+<tr class="noBorder">
+<td>
 <div style="margin: 0 auto; text-align: center">
 <a href="https://artilect.fr/apprendre/1-c-ateliers-et-formations-arduino/" title="Arduino-Maker-Artilect" target="_blank"><img src="Images/Arduino-Maker-Artilect-Web.png" width="850"></a>
+<a href="Images/Carte-AMA-ESP32-OLED.png" title="Carte-AMA-ESP32-OLED" target="_blank"><img src="Images/Carte-AMA-ESP32-OLED.png" width="850"></a>
 </div>
+</td>
+</tr>
+<tr class="noBorder">
+<td>
+<b>Objectifs</b><br /><hr>
+Initiation électronique pour débutant, souhaitant acquérir les bonnes pratiques de développement, pour la mise en œuvre des systèmes embarqués à base de cartes Arduino type ESP32 :<br />
+<ul>
+  <li>Découvrir la programmation des cartes Arduino en langage C/C++ à travers des cas pratiques.</li>
+  <li>Précautions de mise en œuvre, sécurité d’utilisation, alimentation de la carte et des périphériques.</li>
+  <li>Prise en main des cartes microcontrôleurs ESP32.</li>
+  <li>Mise en œuvre de nombreux périphériques d’entrée/sortie.</li>
+  <li>Mise en oeuvre ESP32 avec PlatformIO.</li>
+  <li>Vers les bases d’Arduino et au-delà...</li>
+</ul>
+</td>
+</tr>
+<tr class="noBorder">
+<td>
+<div style="margin: 0 auto; text-align: center">
+<a href="Images/Carte-AMA-ESP32-Legende.png" title="Carte-AMA-ESP32-Legende" target="_blank"><img src="Images/Carte-AMA-ESP32-Legende.png" width="850"></a>
+</div>
+</td>
+</tr>
+</table>
+</p>
+<hr>
+<br />
+</html>
 
-voir "[Formation Arduino Maker Artilect 2021](https://docs.google.com/document/d/1AiOmVbQlEdjEwbFdklUuR_bQvMPeL1gh1BUjC_LPH7M/edit?usp=sharing)"
-
-[Fab-Tronic](https://artilect.fr/fabtronic/), la section thématique autour de l’électronique.
+[Fab-Tronic](https://artilect.fr/fabtronic/), la section thématique des makers autour de l’électronique.
 
 <html>
 <p>
@@ -32,7 +63,7 @@ voir "[Formation Arduino Maker Artilect 2021](https://docs.google.com/document/d
 
 ### Logiciel utilisé pour la conception de la carte électronique
 
-[KiCad EDA - Logiciel de capture schématique et de conception de circuits imprimés](https://kicad.org/), [version 6.0.0 => kicad-msvc.r25345.99ec2b1801-x86_64.exe](https://downloads.kicad.org/kicad/windows/explore/nightlies)
+[KiCad EDA - Logiciel open source de capture schématique et de conception de circuits imprimés](https://kicad.org/), [Windows All Stable Releases > kicad-6.0.10-x86_64.exe](https://downloads.kicad.org/kicad/windows/explore/stable)
 
 [Logiciel open source](https://fr.wikipedia.org/wiki/Open_source) [EDA](https://fr.wikipedia.org/wiki/Conception_assist%C3%A9e_par_ordinateur_pour_l%27%C3%A9lectronique) / [CAO électronique](https://en.wikipedia.org/wiki/Comparison_of_EDA_software) pour Windows, macOS et Linux.
 
