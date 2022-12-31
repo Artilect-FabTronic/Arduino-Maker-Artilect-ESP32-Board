@@ -5,18 +5,18 @@
 <table align='left' border='0' cellpadding='0'>
 <tr class="noBorder">
 <td><a href="CAO-KiCad-AMA-ESP32-Board.pdf" title="Document PDF de la schématique" target="_blank"><img src="../Images/icon-pdf-file.png" width="80" border="0"></a></td>
-<td>Schématique de la carte "<I>A-M-A-ESP32-Board</I>"
-</td>
+<td>Schématique de la carte "<I>A-M-A-ESP32-Board</I>"</td>
 </tr>
 </table>
 </p>
-<hr>
 <br />
 </html>
 
+---
+
 ## La carte A-M-A-ESP32-Board
 
-|                    Placement des composants                    |                  Sérigraphie coté cuivre screen                   |
+|             Placement des composants sur une face              |                      Sérigraphie coté cuivre                      |
 | :------------------------------------------------------------: | :---------------------------------------------------------------: |
 | <img src="../Images/Carte-AMA-ESP32-OLED-Top.png" width="400"> | <img src="../Images/Carte-AMA-ESP32-OLED-Bottom.png" width="400"> |
 |                         Vue de dessus                          |                          Vue de dessous                           |
@@ -42,7 +42,7 @@ Datasheet [ESP32-DevKitC-1](https://docs.espressif.com/projects/arduino-esp32/en
 <tr class="noBorder">
 <td><a href="https://www.studiopieters.nl/esp32-pinout/" title="PinOut 38 pin: ESP32-WROOM-32D" target="_blank"><img src="../Images/ESP32-WROOM-32D-pinout-38pin.png" width="900" border="0"></a></td>
 <tr class="noBorder">
-<td><a href="https://www.studiopieters.nl/esp32-pinout/" title="" target="_blank">Source : https://www.studiopieters.nl/esp32-pinout/</a></td>
+<td><a href="https://www.studiopieters.nl/esp32-pinout/" title="" target="_blank">Source : studiopieters.nl image esp32-pinout</a></td>
 </tr>
 </table>
 </div>
@@ -56,7 +56,7 @@ Datasheet [ESP32-DevKitC-1](https://docs.espressif.com/projects/arduino-esp32/en
 <tr class="noBorder">
 <td><a href="" title="PinOut 38 pin: ESP32-DEVKITC-32D" target="_blank"><img src="../Images/ESP32-DevKitC-Dimensions.png" width="900" border="0"></a></td>
 <tr class="noBorder">
-<td><a href="" title="" target="_blank">Source : </a></td>
+<td><a href="https://components101.com/microcontrollers/esp32-devkitc" title="" target="_blank">Source : components101.com image ESP32 2D Model</a></td>
 </tr>
 </table>
 </div>

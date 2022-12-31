@@ -17,7 +17,7 @@ Conception d'une carte électronique permettant d'accueillir le module **ESP32-W
 </tr>
 <tr class="noBorder">
 <td>
-<b>Objectifs</b><br />
+<b>*** Objectifs ***</b><br />
 Initiation à l'électronique pour débutant, souhaitant acquérir les bonnes pratiques de développement, pour la mise en œuvre des systèmes embarqués à base de cartes Arduino type ESP32 :<br /><br />
 <ul>
   <li>Découvrir la programmation des cartes Arduino en langage C/C++ à travers des cas pratiques.</li>
@@ -50,7 +50,7 @@ Initiation à l'électronique pour débutant, souhaitant acquérir les bonnes pr
 <tr class="noBorder">
 <td><a href="https://discord.gg/aPnZ5Q7w6Q" title="Venez nous rendre visite sur notre chaîne Discord" target="_blank"><img src="Images/logo-discord.png" width="80" border="0"></a></td>
 <td>Pour plus d'informations, venez nous rendre visite sur notre chaîne Discord à l'adresse : <a href="https://discord.gg/aPnZ5Q7w6Q">https://discord.gg/aPnZ5Q7w6Q</a><br />
-Une fois connecté au serveur FabTronic, nous vous invitons à vous présenter dans le salon <b>#présentation</b>
+Une fois connecté au serveur FabTronic, nous vous invitons à vous présenter dans le salon <b><i>#présentation</i></b>
 </td>
 </tr>
 </table>
@@ -70,6 +70,8 @@ Une fois connecté au serveur FabTronic, nous vous invitons à vous présenter d
 Téléchargement [Windows All Stable Releases > kicad-6.0.10-x86_64.exe](https://downloads.kicad.org/kicad/windows/explore/stable)
 
 [Logiciel open source](https://fr.wikipedia.org/wiki/Open_source) [EDA](https://fr.wikipedia.org/wiki/Conception_assist%C3%A9e_par_ordinateur_pour_l%27%C3%A9lectronique) / [CAO électronique](https://en.wikipedia.org/wiki/Comparison_of_EDA_software) pour Windows, macOS et Linux.
+
+[Retrouvez la schématique de la carte, ainsi que la liste de matériels nécessaire pour l'assemblage (BOM).](Docs/README.md)
 
 ---
 
