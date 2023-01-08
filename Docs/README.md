@@ -1,15 +1,14 @@
 # Documentation technique du projet
 
 <html>
-<p>
-<table align='left' border='0' cellpadding='0'>
+<div style="margin: 0 auto; text-align: center">
+<table align='center' border='0' cellpadding='0'>
 <tr class="noBorder">
 <td><a href="CAO-KiCad-AMA-ESP32-Board.pdf" title="Document PDF de la schématique" target="_blank"><img src="../Images/icon-pdf-file.png" width="80" border="0"></a></td>
-<td>Schématique de la carte "<I>A-M-A-ESP32-Board</I>"</td>
+<td><a href="CAO-KiCad-AMA-ESP32-Board.pdf" title="Document PDF de la schématique" target="_blank">Schématique de la carte "<I>A-M-A-ESP32-Board</I>"</a></td>
 </tr>
 </table>
-</p>
-<br />
+</div>
 </html>
 
 ---
@@ -31,18 +30,23 @@ Datasheet [ESP32-DevKitC-1](https://docs.espressif.com/projects/arduino-esp32/en
 
 ---
 
+Montage de la carte :
+
+<a href="https://fr.aliexpress.com/item/32864722159.html" title="ESP32-WROOM-32D, 38 pin" target="_blank"><img src="../Images/montage-des-comopsants-01.jpg" width="900" border="0"></a>
+
+---
+
 ## Brochage de la carte ESP32-WROOM-32D, 38 broches
 
-<!--
-![ESP32-WROOM-32D](../Images/ESP32-WROOM-32D-pinout-38pin.png)
--->
+<!-- Voir aussi https://www.studiopieters.nl/esp32-pinout/ -->
+
 <html>
 <div style="margin: 0 auto; text-align: center">
 <table align='center' border='0' cellpadding='0'>
 <tr class="noBorder">
-<td><a href="https://www.studiopieters.nl/esp32-pinout/" title="PinOut 38 pin: ESP32-WROOM-32D" target="_blank"><img src="../Images/ESP32-WROOM-32D-pinout-38pin.png" width="900" border="0"></a></td>
+<td><a href="https://www.studiopieters.nl/esp32-pinout/" title="PinOut 38 pin: ESP32-WROOM-32D" target="_blank"><img src="../Images/ESP32-38PIN-DEVBOARD-Pinout2.png" width="900" border="0"></a></td>
 <tr class="noBorder">
-<td><a href="https://www.studiopieters.nl/esp32-pinout/" title="" target="_blank">Source : studiopieters.nl image esp32-pinout</a></td>
+<td><a href="https://cdn.shopify.com/s/files/1/0609/6011/2892/files/doc-esp32-pinout-reference-wroom-devkit.png" title="" target="_blank">Source : cdn.shopify.com image esp32-pinout</a></td>
 </tr>
 </table>
 </div>
